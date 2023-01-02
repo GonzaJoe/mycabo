@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148282177506",
+    "project_id": "mycabo-2fdb8",
+    "storage_bucket": "mycabo-2fdb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148282177506:android:b3fdffb847bdd393566bbb",
+        "android_client_info": {
+          "package_name": "com.example.mycabo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148282177506-2c58bgopc8c8bvpg2ssuph56o0sf28lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycabo",
+            "certificate_hash": "ae2f4ab638c8c56a8e915a055cc083d82d7315aa"
+          }
+        },
+        {
+          "client_id": "148282177506-7506e034n8jkhkslpgk6ercup2m8v105.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKJj7MdWv0IuuRYYWTT83N17OnCESw-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148282177506-7506e034n8jkhkslpgk6ercup2m8v105.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
